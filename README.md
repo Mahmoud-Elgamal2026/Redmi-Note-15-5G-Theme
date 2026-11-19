@@ -1,0 +1,12 @@
+# Redmi Note 15 5G Theme · ويدجت الصلاة
+
+ثيم **Glass 18** وتطبيق **ويدجت الصلاة** لموبايل Redmi Note 15 5G (HyperOS).
+
+## التحميل
+من صفحة [Releases](../../releases/latest):
+- `PrayerWidget.apk`: التطبيق (ويدجت الساعة ومواعيد الصلاة والأذان والقبلة والمصحف).
+- `Glass18.mtz`: الثيم. وفيه كمان نسخ Dark وTinted وClear.
+
+> نسخة تجريبية، لسه بتتجرّب.
+
+نص المصحف من quranenc.com عبر مشروع quran-json (CC BY 4.0).
